@@ -12,6 +12,7 @@
 ## Главы
 
 1. [Точная настройка](chapters/01-setup.md) - CLAUDE.md, rules, skills, hooks
+2. [Пайплайн разработки](chapters/02-pipeline.md) - ресерч, спека, рамка задачи, приёмка, режимы под риск
 
 Источники: [sources.md](sources.md)
 
